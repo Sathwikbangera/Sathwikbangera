@@ -10,11 +10,7 @@ RAG systems, LLM integrations and AI-powered backends.
    RAG document intelligence platform
    Python | FastAPI | LangChain | Gemini | Pinecone
 
-2. [Project 2]
-   AI Agent + MCP application
 
-3. [Project 3]
-   ...
 
 💻 Tech
 Python • C# • .NET • FastAPI • React
