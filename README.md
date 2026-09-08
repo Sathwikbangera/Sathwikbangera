@@ -1,16 +1,22 @@
-## Hi there 👋
+Sathwik Bangera
+AI/ML Engineer | RAG | LLMs | Python | .NET | Azure
 
-<!--
-**Sathwikbangera/Sathwikbangera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build production-oriented AI applications,
+RAG systems, LLM integrations and AI-powered backends.
 
-Here are some ideas to get you started:
+🚀 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+1. AskFiles AI
+   RAG document intelligence platform
+   Python | FastAPI | LangChain | Gemini | Pinecone
+
+2. [Project 2]
+   AI Agent + MCP application
+
+3. [Project 3]
+   ...
+
+💻 Tech
+Python • C# • .NET • FastAPI • React
+RAG • LLMs • OpenAI • Azure AI
+...
